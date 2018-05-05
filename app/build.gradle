@@ -44,6 +44,8 @@ dependencies {
     // Firebase Realtime Databse
     compile 'com.google.firebase:firebase-core:9.6.1'
     compile 'com.google.firebase:firebase-database:9.6.1'
+    compile 'com.google.firebase:firebase-auth:9.6.1'
+    compile 'com.firebaseui:firebase-ui-auth:0.6.0'
 
 }
 
